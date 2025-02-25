@@ -84,7 +84,7 @@ if uploaded_image is not None:
 
 name=st.text_area("👨Enter Your Name")
 symptoms = st.text_area("🩺 Enter your symptoms:",)
-age = st.number_input("🎂 Enter your age:", min_value=0, max_value=120, value=25)
+age = st.number_input("🎂 Enter your age:", min_value=0, max_value=120)
 allergies = st.text_input("🚫 List any known allergies:", "None")
 medications = st.text_input("💊 List any current medications:", "None")
 
