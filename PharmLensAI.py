@@ -10,7 +10,10 @@ from PIL import Image
 from fpdf import FPDF
 
 
-genai.configure(api_key="AIzaSyAKVvy0pSvo_uYQslHbvtDat_t3fPyULiI")
+genai.configure(api_key="")
+#ENTER YOUR OWN API KEY 
+#link for extraction : https://youtu.be/o8iyrtQyrZM?si=FhEVtErxj4Ltf1H5
+
 responseimage=""
 def get_medical_advice(symptoms, age, allergies, medications,image):
     model = genai.GenerativeModel("gemini-2.0-flash")
@@ -50,7 +53,9 @@ def extract_text_from_image(image):
 responseimage=""
 
 def analyze_image_with_gemini(image):
-   genai.configure(api_key="AIzaSyAKVvy0pSvo_uYQslHbvtDat_t3fPyULiI")
+   genai.configure(api_key="")
+#ENTER YOUR OWN API KEY 
+#link for extraction : https://youtu.be/o8iyrtQyrZM?si=FhEVtErxj4Ltf1H5
 
 def analyze_image_with_gemini(image):
     model = genai.GenerativeModel("gemini-2.0-flash")
