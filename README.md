@@ -57,9 +57,13 @@ AI Pharma Assistant is an intelligent healthcare tool designed to analyze medica
 - **AI Chatbot Integration** for real-time medical Q&A.
 - **Improved AI Diagnosis** through advanced machine learning models.
 
-## 📩 Contact - For queries, contact [tulikaanand05@gmail.co
+## 📩 Contact - For queries, contact [tulikaanand05@gmail.com]
 
-https://github.com/user-attachments/assets/239cc2b4-0c9a-4bee-b90e-62fa507cb3b3
+
+
+
+
+https://github.com/user-attachments/assets/b662c964-9cfe-43f2-aafd-966400bfde83
 
 
 
