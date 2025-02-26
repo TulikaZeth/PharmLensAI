@@ -61,7 +61,7 @@ AI Pharma Assistant is an intelligent healthcare tool designed to analyze medica
 
 https://github.com/user-attachments/assets/239cc2b4-0c9a-4bee-b90e-62fa507cb3b3
 
-m]
+
 
 **🚀 Empowering Healthcare with AI!**
 
