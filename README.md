@@ -25,7 +25,7 @@ AI Pharma Assistant is an intelligent healthcare tool designed to analyze medica
 - **PIL** (Image Handling)
 
 ## 🔧 Setup Instructions
-1. **Clone the Repository:**
+1. **Clone the Repository:**(using the name of your choice)
    ```bash
    git clone https://github.com/your-repo/AI-Pharma-Assistant.git
    cd AI-Pharma-Assistant
@@ -36,8 +36,9 @@ AI Pharma Assistant is an intelligent healthcare tool designed to analyze medica
    
 3. **Set Up API Key:**
    - Replace `YOUR_GEMINI_API_KEY` in the code with your valid Google Gemini API Key.
+https://youtu.be/o8iyrtQyrZM?si=FhEVtErxj4Ltf1H5(video refernce for the same)
 
-4. **Run the Application:**
+4. **Run the Application:**(with the file name of your choice)
    ```bash
    streamlit run app.py
    ```
